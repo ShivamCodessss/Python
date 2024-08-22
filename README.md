@@ -13,18 +13,23 @@ The series is organized into the following sections:
 1.) Introduction to Python
   * Python Basics: Variables, Data Types, and Control Structures
   * Functions and Modules
+    
 2.) Object-Oriented Programming in Python
   * Classes, Objects, and Inheritance
   * Polymorphism and Exception Handling
+  
 3.) Advanced Python Concepts
   * Generators, Decorators, and Context Managers
   * File Handling and Error Management
+  
 4.) Web Development with Django
   * Setting Up a Django Project
   * Building Web Applications with Django
+  
 7.) Data Analysis with Pandas
   * Data Manipulation and Analysis with Pandas
   * Working with DataFrames and Series
+  
 8.) Automating Tasks with Python
   * Scripting and Automation
   * Working with APIs and Web Scraping
